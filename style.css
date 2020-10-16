@@ -1,0 +1,50 @@
+body{
+    background: url(./img/typewriter-801921_1280.jpg) fixed;
+}
+h4{
+    color: black;
+}
+
+#card{
+    border-radius: 0.7rem;
+    border: 2px solid #ff5500;
+    background-color: #ffbd9c;
+}
+
+#notes{
+    padding: 40px;
+    margin: 2px;
+    background-color: #ffbd9c;
+}
+
+#addTxt, #noteAddTitle{
+    border: 2px solid #ff5500;
+    border-radius: 0.7rem;
+}
+
+#noteTitle{
+    text-align: center;
+}
+
+#addBtn, #notes{
+    border-radius: 0.7rem;
+    border: 2px solid #ff5500;
+}
+
+#addBtn{
+    background-color: #222a70;
+}
+
+#yourNote, #titleNoteFirst{
+    background-color: #ffbd9c;
+    border: 2px solid #ff5500;
+    border-radius: 0.7rem;
+    padding: 10px;
+    font-size: 26px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+#noteTitleAdd{
+    text-align: center;
+}
